@@ -1,0 +1,15 @@
+{
+  "name": "reqparam1",
+  "version": "1.0.0",
+  "description": "demo od req parameters",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "request",
+    "express"
+  ],
+  "author": "Rick Myers",
+  "license": "ISC"
+}
